@@ -1,9 +1,10 @@
 # Site settings
 baseurl = "http://todor.thinkdesign.com/"
+# baseurl = "http://localhost:1313/"
 languageCode = "en-us"
 title = "Todor Radev"
 theme = "hugo-artists-theme"
-publishdir = "todor"
+publishdir = "public"
 
 [params]
 

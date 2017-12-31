@@ -1,21 +1,37 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/</loc>
+    <loc>http://todor.thinkdesign.com/work/animation_reels/</loc>
+  </url>
+  
+  <url>
+    <loc>http://todor.thinkdesign.com/work/game_samples/</loc>
+  </url>
+  
+  <url>
+    <loc>http://todor.thinkdesign.com/work/graphic_design_samples/</loc>
+  </url>
+  
+  <url>
+    <loc>http://todor.thinkdesign.com/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/work/animation_reels/</loc>
+    <loc>http://todor.thinkdesign.com/tags/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/work/game_samples/</loc>
+    <loc>http://todor.thinkdesign.com/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>/work/graphic_design_samples/</loc>
+    <loc>http://todor.thinkdesign.com/work/</loc>
+    <priority>0</priority>
   </url>
   
 </urlset>
