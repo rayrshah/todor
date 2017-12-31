@@ -1,0 +1,15 @@
+# Section title
+title = "Work"
+
+[[projects]]
+    name = "Animation reels"
+    folder = "animation_reels"
+
+[[projects]]
+    name = "Games"
+    folder = "game_samples"
+
+[[projects]]
+    name = "Graphic Design"
+    folder = "graphic_design_samples"
+

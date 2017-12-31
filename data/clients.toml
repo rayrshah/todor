@@ -1,0 +1,23 @@
+# Section title
+title = "Clients"
+
+[[list]]
+    avatar = "client.jpg"
+    name   = "client 1"
+    title  = "Director of Vulputate Mollis Tellus Ultricies"
+    quote  = "**Aenean eu leo quam.** Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Sed posuere consectetur est at lobortis.."
+    logo   = "logo1.png"
+
+[[list]]
+    avatar = "client.jpg"
+    name   = "Client 2"
+    title  = "Director Vulputate Mollis Tellus Ultricies"
+    quote  = "***Aenean eu leo quam.** Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Sed posuere consectetur est at lobortis.."
+    logo   = "logo2.png"
+
+[[list]]
+    avatar = "client.jpg"
+    name   = "Client 3"
+    title  = "Vice-President, Vulputate Mollis Tellus Ultricies "
+    quote  = "**Aenean eu leo quam.** Pellentesque ornare sem lacinia quam venenatis vestibulum. Nulla vitae elit libero, a pharetra augue. Sed posuere consectetur est at lobortis."
+    logo   = "logo3.png"

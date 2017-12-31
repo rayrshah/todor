@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/work/animation_reels/</loc>
+  </url>
+  
+  <url>
+    <loc>/work/game_samples/</loc>
+  </url>
+  
+  <url>
+    <loc>/work/graphic_design_samples/</loc>
+  </url>
+  
+</urlset>
