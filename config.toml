@@ -86,4 +86,4 @@ publishdir = "public"
 
 
 	[params.footer]
-		copyright = "&copy; 2001 - {{ now.Format "2006"}} Todor Radev"
+		copyright = "&copy; 2001 - {{ now.Format '2006'}} Todor Radev"
