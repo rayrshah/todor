@@ -1,6 +1,7 @@
 # Site settings
-baseurl = "http://todor.thinkdesign.com/"
+# baseurl = "http://todor.thinkdesign.com/"
 # baseurl = "http://localhost:1313/"
+baseurl = "https://peaceful-leavitt-b14b18.netlify.com/"
 languageCode = "en-us"
 title = "Todor Radev"
 theme = "hugo-artists-theme"
@@ -85,4 +86,4 @@ publishdir = "public"
 
 
 	[params.footer]
-		copyright = "Copyright 2001 - 2018 Todor Radev"
+		copyright = "&copy; 2001 - {{ now.Format "2006"}} Todor Radev"
