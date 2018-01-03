@@ -1,89 +1,37 @@
-# Site settings
-# baseurl = "http://todor.thinkdesign.com/"
-# baseurl = "http://localhost:1313/"
 baseurl = "musing-babbage-152c34.netlify.com"
 languageCode = "en-us"
-title = "Todor Radev"
-theme = "hugo-artists-theme"
 publishdir = "public"
-
+theme = "hugo-artists-theme"
+title = "Todor Radev"
 [params]
-
-	# make room for custom CSS
-    custom_css = ["css/custom.css"]
-		fontbody = "Raleway"
-		fontheading = "Montserrat"
-
-	# You can use Markdown syntax for urls [text](//url.to/source) for
-	# most longer texts.
-
-	# To provide some metadata for search engines feel free to add a few
-    # information about you and your website.
-	name = "Todor Radev"
-	description = "Traditionally Trained Digital Animator"
-
-	# Since this template is static, the contact form uses www.formspree.io as a
-	# proxy. The form makes a POST request to their servers to send the actual
-	# email. Visitors can send up to a 1000 emails each month for free.
-    #
-    # What you need to do for the setup?
-    #
-    # - set your email address under 'email' below
-    # - upload the generated site to your server
-    # - send a dummy email yourself to confirm your account
-    # - click the confirm link in the email from www.formspree.io
-    # - you're done. Happy mailing!
-	email = "todor_radev@hotmail.com"
-
-
-	# Header and navigation
-	#
-	# To change the header background the 'hero-bg-jpg' at 'static/img'.
-	# Do the same with the logo ('logo.svg').
-	# But keep the original filename!
-	[params.header]
-		title = "Todor Radev"
-		shortBio = "Traditionally Trained Digital Animator, Digital Expert"
-
-
-	# About section
-	#
-	# Replace the 'avatar.jpg' under 'static/img' with your own image.
-	[params.about]
-		title = "What I Do"
-		bio = "I am a 2D animator and graphic design professional with more than 10 years experience in animation and computer games industry in USA and Europe. As an art director at Secretbuilders.com I led a project for Oxford University Press, developing more than 200 Hidden Object games out of classic books. I was responsible for UI design, background and characters development, liaising with partners, designers, account executives and website developers. My work as part of a broader production team in Magic World studio was awarded in 2000 with an Emmy. I am accustomed to working with technical software packages such as Flash, Mays, LightWave Softimage and Cinema 2D building accurate, detailed frame by frame visuals."
-
-
-	# Contact section
-	[params.contact]
-		title = "Contact"
-
-		# The following social network icons are available:
-		# 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin'
-		# 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
-
-		[[params.contact.social]]
-			icon = "facebook"
-			link = "//facebook.com/todor.radev.585"
-
-		[[params.contact.social]]
-			icon = "linkedin"
-			link = "//linkedin.com/in/todor-radev-44b85a112"
-
-
-		[[params.contact.social]]
-			icon = "youtube"
-			link = "//youtube.com/channel/UCHxQEvkuXrsxHstal79TSwQ"
-
-
-	[params.form]
-		title = "Let's work together"
-		# Form fields
-		name = "Your Name"
-		email = "Your Email"
-		message = "Tell me about your project"
-		buttonText = "Send"
-
-
-	[params.footer]
-		copyright = "&copy; 2001 - {{ now.Format '2006'}} Todor Radev"
+custom_css = ["css/custom.css"]
+description = "Traditionally Trained Digital Animator"
+email = "todor_radev@hotmail.com"
+fontbody = "Raleway"
+fontheading = "Montserrat"
+name = "Todor Radev Digital Animator"
+[params.about]
+bio = "I am a 2D animator and graphic design professional with more than 10 years experience in animation and computer games industry in USA and Europe. As an art director at Secretbuilders.com I led a project for Oxford University Press, developing more than 200 Hidden Object games out of classic books. I was responsible for UI design, background and characters development, liaising with partners, designers, account executives and website developers. My work as part of a broader production team in Magic World studio was awarded in 2000 with an Emmy. I am accustomed to working with technical software packages such as Flash, Mays, LightWave Softimage and Cinema 2D building accurate, detailed frame by frame visuals."
+title = "What I Do"
+[params.contact]
+title = "Contact"
+[[params.contact.social]]
+icon = "facebook"
+link = "//facebook.com/todor.radev.585"
+[[params.contact.social]]
+icon = "linkedin"
+link = "//linkedin.com/in/todor-radev-44b85a112"
+[[params.contact.social]]
+icon = "youtube"
+link = "//youtube.com/channel/UCHxQEvkuXrsxHstal79TSwQ"
+[params.footer]
+copyright = "&copy; 2001 - {{ now.Format '2006'}} Todor Radev"
+[params.form]
+buttontext = "Send"
+email = "Your Email"
+message = "Tell me about your project"
+name = "Your Name"
+title = "Let's work together"
+[params.header]
+shortbio = "Traditionally Trained Digital Animator, Digital Expert"
+title = "Todor Radev"
