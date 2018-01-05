@@ -1,7 +1,7 @@
 # Site settings
 # baseurl = "http://todor.thinkdesign.com/"
 # baseurl = "http://localhost:1313/"
-  baseurl = "https://mystifying-banach-1768de.netlify.com/"
+  baseurl = "/"
   languageCode = "en-us"
   publishdir = "public"
   theme = "hugo-artists-theme"
