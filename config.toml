@@ -13,9 +13,11 @@
   fontbody = "Raleway"
   fontheading = "Montserrat"
   name = "Todor Radev Digital Animator"
+
 [params.about]
   bio = "I am a 2D animator and graphic design professional with more than 10 years experience in animation and computer games industry in USA and Europe. As an art director at Secretbuilders.com I led a project for Oxford University Press, developing more than 200 Hidden Object games out of classic books. I was responsible for UI design, background and characters development, liaising with partners, designers, account executives and website developers. My work as part of a broader production team in Magic World studio was awarded in 2000 with an Emmy.  Expert composing in Flash/Animate CC and Photoshop producing accurate, detailed frame by frame visuals."
   title = "What I Do"
+
 [params.contact]
   title = "Contact"
 [[params.contact.social]]
