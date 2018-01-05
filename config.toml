@@ -1,40 +1,40 @@
 # Site settings
 # baseurl = "http://todor.thinkdesign.com/"
 # baseurl = "http://localhost:1313/"
-baseurl = "https://mystifying-banach-1768de.netlify.com/"
-languageCode = "en-us"
-publishdir = "public"
-theme = "hugo-artists-theme"
-title = "Todor Radev"
+  baseurl = "https://mystifying-banach-1768de.netlify.com/"
+  languageCode = "en-us"
+  publishdir = "public"
+  theme = "hugo-artists-theme"
+  title = "Todor Radev"
 [params]
-custom_css = ["css/custom.css"]
-description = "Traditionally Trained Digital Animator"
-email = "todor_radev@hotmail.com"
-fontbody = "Raleway"
-fontheading = "Montserrat"
-name = "Todor Radev Digital Animator"
+  custom_css = ["css/custom.css"]
+  description = "Traditionally Trained Digital Animator"
+  email = "todor_radev@hotmail.com"
+  fontbody = "Raleway"
+  fontheading = "Montserrat"
+  name = "Todor Radev Digital Animator"
 [params.about]
-bio = "I am a 2D animator and graphic design professional with more than 10 years experience in animation and computer games industry in USA and Europe. As an art director at Secretbuilders.com I led a project for Oxford University Press, developing more than 200 Hidden Object games out of classic books. I was responsible for UI design, background and characters development, liaising with partners, designers, account executives and website developers. My work as part of a broader production team in Magic World studio was awarded in 2000 with an Emmy. I am accustomed to working with technical software packages such as Flash, Mays, LightWave Softimage and Cinema 2D building accurate, detailed frame by frame visuals."
-title = "What I Do"
+  bio = "I am a 2D animator and graphic design professional with more than 10 years experience in animation and computer games industry in USA and Europe. As an art director at Secretbuilders.com I led a project for Oxford University Press, developing more than 200 Hidden Object games out of classic books. I was responsible for UI design, background and characters development, liaising with partners, designers, account executives and website developers. My work as part of a broader production team in Magic World studio was awarded in 2000 with an Emmy.  Expert composing in Flash/Animate CC and Photoshop producing accurate, detailed frame by frame visuals."
+  title = "What I Do"
 [params.contact]
-title = "Contact"
+  title = "Contact"
 [[params.contact.social]]
-icon = "facebook"
-link = "//facebook.com/todor.radev.585"
+  icon = "facebook"
+  link = "//facebook.com/todor.radev.585"
 [[params.contact.social]]
-icon = "linkedin"
-link = "//linkedin.com/in/todor-radev-44b85a112"
+  icon = "linkedin"
+  link = "//linkedin.com/in/todor-radev-44b85a112"
 [[params.contact.social]]
-icon = "youtube"
-link = "//youtube.com/channel/UCHxQEvkuXrsxHstal79TSwQ"
+  icon = "youtube"
+  link = "//youtube.com/channel/UCHxQEvkuXrsxHstal79TSwQ"
 [params.footer]
-copyright = "&copy; 2001 - {{ now.Format '2006'}} Todor Radev"
+  copyright = "COPYRIGHT 2001 - 2018 Todor Radev"
 [params.form]
-buttontext = "Send"
-email = "Your Email"
-message = "Tell me about your project"
-name = "Your Name"
-title = "Let's work together"
+  buttontext = "Send"
+  email = "Your Email"
+  message = "Tell me about your project"
+  name = "Your Name"
+  title = "Let's work together"
 [params.header]
-shortbio = "Traditionally Trained Digital Animator, Digital Expert"
-title = "Todor Radev"
+  shortbio = "2D Animator, Graphic Designer and Storyboard Artist"
+  title = "Todor Radev"
