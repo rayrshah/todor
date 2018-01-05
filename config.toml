@@ -1,7 +1,7 @@
 # Site settings
 # baseurl = "http://todor.thinkdesign.com/"
 # baseurl = "http://localhost:1313/"
-baseurl = "musing-babbage-152c34.netlify.com"
+baseurl = "https://mystifying-banach-1768de.netlify.com/"
 languageCode = "en-us"
 title = "Todor Radev"
 theme = "hugo-artists-theme"
