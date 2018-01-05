@@ -1,0 +1,25 @@
+<meta charset="UTF-8">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="{{ with .Site.Params.description }}{{ . }}{{ end }}">
+<meta name="author" content="{{ with .Site.Params.name }}{{ . }}{{ end }}">
+{{ .Hugo.Generator }}
+<title>{{ .Site.Title }}</title>
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/all.css">
+<link rel="stylesheet" href="{{ .Site.BaseURL }}css/custom.css">
+<script src="https://npmcdn.com/flickity@1.2/dist/flickity.pkgd.min.js"></script>
+<link href='//fonts.googleapis.com/css?family={{ .Site.Params.fontbody }}' rel='stylesheet' type='text/css'>
+<link href='//fonts.googleapis.com/css?family={{ .Site.Params.fontheading }}' rel='stylesheet' type='text/css'>
+<style>
+body {
+    font-family: '{{ replace .Site.Params.fontbody "+" " "}}';
+}
+
+h1, h2, h3,
+h4, h5, h6 {
+    font-family: '{{ replace .Site.Params.fontheading "+" " "}}';
+}
+</style>
+{{ "<!--[if lt IE 9]>" | safeHTML }}
+	<script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+{{ "<![endif]-->" | safeHTML }}
