@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Todor Radev</title>
+    <link>/</link>
+    <description>Recent content on Todor Radev</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/work/animation_reels/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/animation_reels/</guid>
+      <description>Below are animation examples for web and TV.
+Happy New 2016
+  Greeting based on my 10 year old sons’ drawings.
+  Based on my 8 year old sons’ drawings. -- Happy Thanksgiving
+  Animated escape of the turkey from the Thanksgiving table.
+Autumn   Made after the painting of classic Bulgarian artist Vladimir Dimitrov Majstora. Credits: Conceived, written, directed and animated by Todor Radev.
+&amp;ldquo;I am the mop&amp;rdquo;</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/work/game_samples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/game_samples/</guid>
+      <description>I have designed and animated a ton of games. Here are some recent examples of user interface and background artwork for mobile and desktop games.
+Interface for Sherlock Holmes Hidden Object game by Oxford University Press
+Jack and the Beanstalk Hidden Object game by Oxford University Press
+Background artwork of a Reading Room for Secret Builders online virtual world for kids
+Background artwork of a Hallway for Secret Builders online virtual world for kids</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/work/graphic_design_samples/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/work/graphic_design_samples/</guid>
+      <description>Here are some examples of graphic design for apps and websites.
+Corporate identity development. Client: Cliver
+Advertising for a streaming video startup.
+Logo development of an app.
+Kickstarter campaign artwork for a movie
+Kickstarter campaign artwork for a movie</description>
+    </item>
+    
+  </channel>
+</rss>
